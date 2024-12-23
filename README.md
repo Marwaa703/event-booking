@@ -2,14 +2,20 @@
 
 Event Booking is a React Native mobile application that allows users to discover, view, and reserve events. Built with Expo and Redux, it provides a seamless experience for event management.
 
-![Event Booking App Screenshots](./assets/1.png)
-![Event Booking App Screenshots](./assets/2.png)
-![Event Booking App Screenshots](./assets/3.png)
-![Event Booking App Screenshots](./assets/4.png)
-![Event Booking App Screenshots](./assets/5.png)
-![Event Booking App Screenshots](./assets/6.png)
-![Event Booking App Screenshots](./assets/7.png)
-![Event Booking App Screenshots](./assets/8.png)
+![Event Booking App Scre![7](https://github.com/user-attachments/assets/75d11bf7-ffe8-40af-98f1-507070588d3b)
+enshots](./assets/1.png)
+![Event Booking App Screenshots](./assets![8](https://github.com/user-attachments/assets/f17d5532-96bc-4af7-95b7-7cec77661cf3)
+/2.png)
+![Event Booking App Screenshots](./assets/3![5](https://github.com/user-attachments/assets/e7307a45-f0e2-45c2-bd7b-638850e42146)
+.png)![4](https://github.com/user-attachments/assets/b029170d-fb0b-446e-b988-e5bd954d4da4)
+![3](https://github.com/user-attachments/assets/aa193827-725a-440b-ba7a-835f3a52cfa9)
+
+![Event Booking App Screenshots](./assets/4.![2](https://github.com/user-attachments/assets/a2924c94-e2f3-434b-85d0-6483e35ab59c)
+png)
+
+![Event Booking App Screenshots](./as![1](https://github.com/user-attachments/assets/6da46a60-827c-48df-8d1b-0a940767d6a3)
+sets/6.png)
+
 
 ## Features
 
@@ -142,7 +148,7 @@ EventBookingApp/
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License.
 
 ## Acknowledgments
 
