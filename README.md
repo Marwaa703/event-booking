@@ -2,7 +2,8 @@
 
 Event Booking is a React Native mobile application that allows users to discover, view, and reserve events. Built with Expo and Redux, it provides a seamless experience for event management.
 
-###Screenshots in the end of README.md
+
+**Screenshots in the end of README.md**
 
 ## Features
 
